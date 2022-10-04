@@ -1,1 +1,1 @@
-# plain_blog_article
+# Plain_blog_article for [Odin](https://www.theodinproject.com)
